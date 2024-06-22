@@ -3,7 +3,7 @@
 Passionate B. Tech IT student at PSG College of Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [Resume](https://drive.google.com/file/d/1DalMPWMMfMblREbUyR7HovVYY8l9khsC/view?usp=sharing)                                              
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning ML and ReactJS, Node.js
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
